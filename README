@@ -1,0 +1,16 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=204
+
+Vim 6.3 configuration files.
+
+This package include vimrc file, filetype plugins (mail, perl, TeX) and some plugins from another projects.
+
+Useful functions (e.g. for folding, autoreload of ~/.vimrc ...)
+
+The LATEST version of project can be downloaded from:
+
+http://platon.sk/projects/vimconfig/
+
+
+You can submit bugs, feature requests etc. at
+http://platon.sk/projects/vimconfig/
+
